@@ -21,4 +21,10 @@ no & 1 == 0 even
 
 a & -a
 
+6. To check the given binary numbers a,b are consecutive gray codes
+
+https://stackoverflow.com/a/27332721
+flip the last bit to one neighbour and left of the rightmost set bit to get another neighbour
+
+return b = a ^ 1 OR b = a ^ ((a & -a) << 1);
 
