@@ -1,0 +1,24 @@
+1. To flip a bit at a particular position 
+
+110 ^ 1 or 110 ^ (1<<1)  flips the bit at first position
+101101 ^ (1<<4) flips the bit at 4th position 
+
+2. representation a number in negative
+
+take 2's complement and add 1 to it
+
+3. To check even or odd number 
+
+no & 1 == 1 Odd
+no & 1 == 0 even
+
+4. To move in the power of 2
+
+1<<1 to 1 << 32;
+2^0  to 2^32 
+
+5. To get the right most set bit
+
+a & -a
+
+
