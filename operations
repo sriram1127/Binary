@@ -19,7 +19,7 @@ no & 1 == 0 even
 
 5. To get the right most set bit
 
-a & -a
+a & ~(a-1) or a & -a
 
 6. To check the given binary numbers a,b are consecutive gray codes
 
