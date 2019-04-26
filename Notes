@@ -1,2 +1,5 @@
 1. Count the number of digits in a number 
 (int)Math.log10(n) + 1
+
+2.Integer to String
+Integer.toString(12)  --> "12"
