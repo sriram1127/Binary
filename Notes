@@ -1,0 +1,2 @@
+1. Count the number of digits in a number 
+(int)Math.log10(n) + 1
