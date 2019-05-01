@@ -15,3 +15,5 @@ Quick Sort - O(log n) for stack frames recursion.
   
 5. Arrays.sort uses quick sort for primitive types and merge sort for Objects.
 Quick is not stable where as merge sort is.
+
+After java7, For objects --> Tim Sort and for primitive types --> Dual Pivot Quick Sort
