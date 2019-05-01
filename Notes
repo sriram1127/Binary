@@ -3,3 +3,9 @@
 
 2.Integer to String
 Integer.toString(12)  --> "12"
+
+3. Space Complexities
+Bubble Sort - O(1)
+Insertion Sort - O(1)
+Merge Sort - O(n)
+Quick Sort - O(log n) for stack frames recursion.
