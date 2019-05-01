@@ -12,3 +12,5 @@ Quick Sort - O(log n) for stack frames recursion.
 
 4. () exclusive brackets
    [] inclusive brackets
+  
+5. Arrays.sort uses quick sort for primitive types and merge sort for Objects.
