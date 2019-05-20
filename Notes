@@ -16,4 +16,10 @@ Quick Sort - O(log n) for stack frames recursion.
 5. Arrays.sort uses quick sort for primitive types and merge sort for Objects.
 Quick is not stable where as merge sort is.
 
-After java7, For objects --> Tim Sort and for primitive types --> Dual Pivot Quick Sort
+6. Minimum Spanning Tree
+ prim's algorithm O(E+V lgV)
+ kruskal's algorithm  O(E logV).
+ Kruskal can have better performance if the edges can be sorted in linear time, or are already sorted.
+ Prim's better if the number of edges to vertices is high
+
+After java7, For objects --> Tim(Merge + Insert) Sort and for primitive types --> Dual Pivot Quick Sort
