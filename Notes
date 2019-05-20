@@ -17,9 +17,12 @@ Quick Sort - O(log n) for stack frames recursion.
 Quick is not stable where as merge sort is.
 
 6. Minimum Spanning Tree
- prim's algorithm O(E+V lgV)
- kruskal's algorithm  O(E logV).
- Kruskal can have better performance if the edges can be sorted in linear time, or are already sorted.
- Prim's better if the number of edges to vertices is high
+ 1. prim's algorithm O(E+V lgV)
+ 2.kruskal's algorithm  O(E logV).
+   Kruskal can have better performance if the edges can be sorted in linear time, or are already sorted.
+   Prim's better if the number of edges to vertices is high
+ 3. Borůvka's algorithm
+ Borůvka's algorithm is a greedy algorithm for finding a minimum spanning tree in a graph for which all edge weights are distinct,
+ or a minimum spanning forest in the case of a graph that is not connected.
 
 After java7, For objects --> Tim(Merge + Insert) Sort and for primitive types --> Dual Pivot Quick Sort
