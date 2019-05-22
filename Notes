@@ -15,6 +15,7 @@ Quick Sort - O(log n) for stack frames recursion.
   
 5. Arrays.sort uses quick sort for primitive types and merge sort for Objects.
 Quick is not stable where as merge sort is.
+After java7, For objects --> Tim(Merge + Insert) Sort and for primitive types --> Dual Pivot Quick Sort
 
 6. Minimum Spanning Tree
  1. prim's algorithm O(E+V lgV)
@@ -25,4 +26,7 @@ Quick is not stable where as merge sort is.
  Borůvka's algorithm is a greedy algorithm for finding a minimum spanning tree in a graph for which all edge weights are distinct,
  or a minimum spanning forest in the case of a graph that is not connected.
 
-After java7, For objects --> Tim(Merge + Insert) Sort and for primitive types --> Dual Pivot Quick Sort
+
+7. Reservoir Sampling 
+It is used when n is unknown
+
