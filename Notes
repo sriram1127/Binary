@@ -30,3 +30,5 @@ After java7, For objects --> Tim(Merge + Insert) Sort and for primitive types --
 7. Reservoir Sampling 
 It is used when n is unknown
 
+8. Number of subsets in an array of length n is 2^n including {} empty subset.
+
