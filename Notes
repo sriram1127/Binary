@@ -35,4 +35,10 @@ It is used when n is unknown
 9. Josephus problem
    n soldiers = 2^a + l (express the number in the highest power of 2) 12 = 2^3 + 4; 15 = 2^3 + 7;
    answer = 2l + 1 is the soldier wins
+   
+10. File Operations
+File file = new File(path);
+File[] files = file.listFiles();
+file.isDirectory()
+file.length() size in long (bytes)
 
