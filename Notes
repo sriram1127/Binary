@@ -54,3 +54,9 @@ https://stackoverflow.com/questions/1519736/random-shuffling-of-an-array
 14.Langford pairing
 https://en.wikipedia.org/wiki/Langford_pairing
 
+15. TreeMap methods
+floorKey()
+ceilingKey()
+higherKey() strictly greater
+lowerKey()
+
