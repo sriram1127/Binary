@@ -59,4 +59,7 @@ floorKey()
 ceilingKey()
 higherKey() strictly greater
 lowerKey()
+subMap(fromKey, toKey);
+subMap(fromKey, inclusive, toKey, inclusive);
+clear();
 
