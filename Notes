@@ -63,3 +63,13 @@ subMap(fromKey, toKey);
 subMap(fromKey, inclusive, toKey, inclusive);
 clear();
 
+16
+Integer a = 128;
+Integer b = 128;
+a == b // false
+
+int a = 128;
+Integer b = 128;
+a == b // true
+
+
