@@ -64,7 +64,7 @@ subMap(fromKey, inclusive, toKey, inclusive);
 clear();
 
 16
-// from -127 to 127 java cache the value, after 127 the hashcode for reference would be different
+// from -128 to 127 java cache the value, after 127 the hashcode for reference would be different
 Integer a = 127;
 Integer b = 127;
 a == b // true
