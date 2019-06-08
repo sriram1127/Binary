@@ -84,5 +84,7 @@ Insertion sort
 Merge Sort
 Bubble Sort
 
+19. Lower bound on number of comparisons done in a typical sorting algorithm? Ans: O(nlog(n))
+
 
 
