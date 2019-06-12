@@ -89,3 +89,5 @@ Bubble Sort
 20  print list
 list.forEach(System.out::println);
 
+21. 1000 --> 1 << (c-1)
+c is the lenght & c = 4
