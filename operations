@@ -25,4 +25,7 @@
   
 7. -1 >> 1 = -1
   It is important to use >>> instead of >> for negative numbers.
+  
+8. bitwise-and-of-sub-array-closest-to-k
+AND never increase, either remains same or decrease.
 
