@@ -97,3 +97,10 @@ c is the lenght & c = 4
 23. Add elements to queue
 Queue<String> queue = new LinkedList<>();
 queue.addAll(Arrays.asList(str.split(",)));
+
+24. 2D matrix indexes
+m - rows
+n - cols
+index - 0 to m*n-1
+
+at index [mid/col][mid%col]
