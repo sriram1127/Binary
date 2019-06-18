@@ -93,3 +93,7 @@ list.forEach(System.out::println);
 c is the lenght & c = 4
 
 22. Bitwise AND of all subarrays = Bitwise AND of an array
+
+23. Add elements to queue
+Queue<String> queue = new LinkedList<>();
+queue.addAll(Arrays.asList(str.split(",)));
