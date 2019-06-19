@@ -104,3 +104,9 @@ n - cols
 index - 0 to m*n-1
 
 at index [mid/col][mid%col]
+
+25. import java.util.concurrent.*;
+   ThreadLocalRandom.current().nextInt(2, 5); [2,5)
+  
+26. Lagrange's Theorem any natural number can be constructed by the sum of squares, 1, 2, 3, 4.
+if 4, => 4^k(8m+7)
