@@ -110,3 +110,10 @@ at index [mid/col][mid%col]
   
 26. Lagrange's Theorem any natural number can be constructed by the sum of squares, 1, 2, 3, 4.
 if 4, => 4^k(8m+7)
+
+27 
+to use Pair<Integer, TreeNode> pair = new Pair<>();
+import javafx.util.Pair;
+pair.getKey();
+pair.getValue();
+
