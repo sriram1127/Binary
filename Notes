@@ -120,4 +120,6 @@ pair.getValue();
 28 String[] values = "255.255.244.255".split("\\.");
 \\ is important for . split to work
 "." string is needed instead of char
+"\\w+" -> regex for word
+"\\W+" -> regex for non word
 
