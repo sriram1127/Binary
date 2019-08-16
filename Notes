@@ -123,3 +123,21 @@ pair.getValue();
 "\\w+" -> regex for word
 "\\W+" -> regex for non word
 
+29. Deque Operation
+Deque q = new ArrayDeque();
+peekFirst (head/recently inserted)
+peekLast  (Tail/first inserted)
+removeFirst
+removeLast
+addFirst
+addLast
+
+30. To create immutable class
+1. make class final
+2. make all variables final
+3. initial parameterized constructor
+4. no setters
+5. only getters
+
+
+
