@@ -139,5 +139,11 @@ addLast
 4. no setters
 5. only getters
 
+31. Binary Search nuances
+1. nums[low] <= nums[mid]
+2. nums[mid] < nums[high]
+3. low = mid & high = mid-1 might result in stackoverflow exception
+4. using low<=high to return from loop and low < high to return outside of loop
+
 
 
