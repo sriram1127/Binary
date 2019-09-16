@@ -145,5 +145,9 @@ addLast
 3. low = mid & high = mid-1 might result in stackoverflow exception
 4. using low<=high to return from loop and low < high to return outside of loop
 
+32.Round off decimal digit
+DecimalFormat df = new DecimalFormat("0.00");
+df.format(4.5343);
+
 
 
