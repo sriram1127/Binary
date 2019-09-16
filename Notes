@@ -146,6 +146,10 @@ addLast
 4. using low<=high to return from loop and low < high to return outside of loop
 
 32.Round off decimal digit
+import java.math.RoundingMode;
+import java.text.DecimalFormat;
+RoundingMode.DOWN
+RoundingMode.UP
 DecimalFormat df = new DecimalFormat("0.00");
 df.format(4.5343);
 
