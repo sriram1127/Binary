@@ -153,5 +153,7 @@ RoundingMode.UP
 DecimalFormat df = new DecimalFormat("0.00");
 df.format(4.5343);
 
+33. Querternary Search
+https://stackoverflow.com/questions/39845641/quaternary-search-algorithm
 
 
