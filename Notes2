@@ -1,0 +1,3 @@
+AVL/ Height Balanced Tree –
+AVL tree is binary search tree with additional property that difference 
+between height of left sub-tree and right sub-tree of any node can’t be more than 1
