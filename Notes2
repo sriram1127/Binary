@@ -1,3 +1,10 @@
 AVL/ Height Balanced Tree –
 AVL tree is binary search tree with additional property that difference 
 between height of left sub-tree and right sub-tree of any node can’t be more than 1
+
+
+Mutex vs semaphore
+Mutex is locking mechanism (one thread at a time)
+Semaphore is signalling mechanism(Many threads at a time)
+
+
