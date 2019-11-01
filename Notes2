@@ -11,4 +11,13 @@ HashSet uses the implementation of the HashMap
 
 It is mandatory to override the hashcode method if equals method is overriden
 
+Conversions
+Integer.toBinaryString();
+Integer.toHexString();
+Integer.toOctalString();
+
+Integer.parseInt(str, 2);
+Integer.parseInt(str, 8);
+Integer.parseInt(str, 16);
+
 
