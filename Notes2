@@ -7,4 +7,8 @@ Mutex vs semaphore
 Mutex is locking mechanism (one thread at a time)
 Semaphore is signalling mechanism(Many threads at a time)
 
+HashSet uses the implementation of the HashMap
+
+It is mandatory to override the hashcode method if equals method is overriden
+
 
