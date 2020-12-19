@@ -1,4 +1,18 @@
-https://leetcode.com/discuss/interview-question/125157/Reorder-array
+1. https://leetcode.com/discuss/interview-question/125157/Reorder-array
 https://www.youtube.com/watch?v=KOglcclYgXI&feature=youtu.be&ab_channel=alGOds
 
-https://www.hackerrank.com/challenges/minimum-swaps-2/problem
+2. https://www.hackerrank.com/challenges/minimum-swaps-2/problem
+
+3. https://leetcode.com/discuss/interview-question/473592/Google-or-Phone-or-Shopping-Cart
+Map<Long, Long> map :  offer -> product
+Map<Long, Product> map : productId -> product
+
+Product {
+  int productId
+  Map<Long, Double> map :  offerId -> amount;
+  TreeMap<Double, Integer> treeMap : amount -> count;
+}
+
+All 3 operations are O(logn)
+
+A product have offers with same amount;
