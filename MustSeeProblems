@@ -16,3 +16,9 @@ Product {
 All 3 operations are O(logn)
 
 A product have offers with same amount;
+
+4. https://leetcode.com/discuss/interview-question/479911/Google-or-Phone-or-Find-K-th-node-in-inorder-traversal
+
+curnode is at pos = left pos + 1;
+if(left == null) return 0;
+
