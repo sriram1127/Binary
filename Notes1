@@ -3,6 +3,7 @@
 
 2.Integer to String
 Integer.toString(12)  --> "12"
+Integet.toHexString(10) -> 0Xa
 
 3. Space Complexities
 Bubble Sort - O(1)
